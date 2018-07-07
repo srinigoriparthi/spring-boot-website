@@ -9,6 +9,7 @@ public class CourseApiWebsiteApplication {
 	public static void main(String[] args) {
 		//This is Course API Website Project.
 		
+		
 		SpringApplication.run(CourseApiWebsiteApplication.class, args);
 	}
 }
